@@ -9,8 +9,8 @@ holdings = [5, 4, 3, 2]
 headers = {
     "accept": "application/json",
     "content-type": "application/json",
-    "APCA-API-KEY-ID": "PKFO35XBDXXL9WGHKN8D",
-    "APCA-API-SECRET-KEY": "pir9wSvhSv1kgSgofAj80LcgQ4csI6y2fJgUhTT2"
+    "APCA-API-KEY-ID": "PKFO35XBDXXL9WGHK###",
+    "APCA-API-SECRET-KEY": "pir9wSvhSv1kgSgofAj80LcgQ4csI6y2fJgUh###"
 }
 
 purchase_prices = {}
